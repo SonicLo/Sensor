@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/SonicLo/Sensor/static/css/main.3f7aff1b.css",
-    "main.js": "/SonicLo/Sensor/static/js/main.cb76d5e9.js",
-    "static/media/motor2.jpg": "/SonicLo/Sensor/static/media/motor2.388150e8b7a1e3e891f5.jpg",
-    "static/media/fondoAgua.jpg": "/SonicLo/Sensor/static/media/fondoAgua.b21f51a3eff627cb37a2.jpg",
-    "static/media/potoboard.jpg": "/SonicLo/Sensor/static/media/potoboard.78be6bf816a59c4a7908.jpg",
-    "static/media/recipiente2.png": "/SonicLo/Sensor/static/media/recipiente2.3e7cfbf287b95db5ae4e.png",
-    "static/media/arduino.jpg": "/SonicLo/Sensor/static/media/arduino.d2d4035163fca1fbf886.jpg",
-    "static/media/fondoSensor.jpg": "/SonicLo/Sensor/static/media/fondoSensor.79f0f85e3b5ba51a4174.jpg",
-    "static/media/sensorUltra.jpeg": "/SonicLo/Sensor/static/media/sensorUltra.6c70b442868902818024.jpeg",
-    "static/media/logo.png": "/SonicLo/Sensor/static/media/logo.ac310889652f35353db3.png",
-    "static/media/logo3.jpg": "/SonicLo/Sensor/static/media/logo3.b41b963705dd321ba132.jpg",
-    "index.html": "/SonicLo/Sensor/index.html",
-    "main.3f7aff1b.css.map": "/SonicLo/Sensor/static/css/main.3f7aff1b.css.map",
-    "main.cb76d5e9.js.map": "/SonicLo/Sensor/static/js/main.cb76d5e9.js.map"
+    "main.css": "/SonicLo/Sensor_iot/static/css/main.32efce8a.css",
+    "main.js": "/SonicLo/Sensor_iot/static/js/main.f086ab23.js",
+    "static/media/motor2.jpg": "/SonicLo/Sensor_iot/static/media/motor2.388150e8b7a1e3e891f5.jpg",
+    "static/media/fondoAgua.jpg": "/SonicLo/Sensor_iot/static/media/fondoAgua.b21f51a3eff627cb37a2.jpg",
+    "static/media/potoboard.jpg": "/SonicLo/Sensor_iot/static/media/potoboard.78be6bf816a59c4a7908.jpg",
+    "static/media/recipiente2.png": "/SonicLo/Sensor_iot/static/media/recipiente2.3e7cfbf287b95db5ae4e.png",
+    "static/media/arduino.jpg": "/SonicLo/Sensor_iot/static/media/arduino.d2d4035163fca1fbf886.jpg",
+    "static/media/fondoSensor.jpg": "/SonicLo/Sensor_iot/static/media/fondoSensor.79f0f85e3b5ba51a4174.jpg",
+    "static/media/sensorUltra.jpeg": "/SonicLo/Sensor_iot/static/media/sensorUltra.6c70b442868902818024.jpeg",
+    "static/media/logo.png": "/SonicLo/Sensor_iot/static/media/logo.ac310889652f35353db3.png",
+    "static/media/logo3.jpg": "/SonicLo/Sensor_iot/static/media/logo3.b41b963705dd321ba132.jpg",
+    "index.html": "/SonicLo/Sensor_iot/index.html",
+    "main.32efce8a.css.map": "/SonicLo/Sensor_iot/static/css/main.32efce8a.css.map",
+    "main.f086ab23.js.map": "/SonicLo/Sensor_iot/static/js/main.f086ab23.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f7aff1b.css",
-    "static/js/main.cb76d5e9.js"
+    "static/css/main.32efce8a.css",
+    "static/js/main.f086ab23.js"
   ]
 }
